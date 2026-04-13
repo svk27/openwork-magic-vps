@@ -102,9 +102,9 @@ start_project() {
 
     # Default command parameters
     opt_remote=1
-    opt_detach=1
+    opt_detach=0
     opt_approval=1
-    opt_tui=1
+    opt_tui=0
     opt_docker=0
 
     if [ "$flag_choice" == "2" ]; then
