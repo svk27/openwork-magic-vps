@@ -14,4 +14,4 @@ If you have the script hosted on GitHub (or a GitHub Gist), you can download and
 Open your terminal and run:
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/svk27/openwork-magic-vps/refs/heads/main/install-openwork.sh](https://raw.githubusercontent.com/svk27/openwork-magic-vps/refs/heads/main/install-openwork.sh) | bash
+curl -sSL https://raw.githubusercontent.com/svk27/openwork-magic-vps/refs/heads/main/install-openwork.sh | bash
